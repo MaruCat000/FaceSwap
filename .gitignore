@@ -1,0 +1,18 @@
+# 顔画像(個人の写真はコミットしない)
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.bmp
+*.gif
+*.heic
+*.JPG
+*.JPEG
+*.PNG
+*.WEBP
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
